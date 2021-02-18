@@ -1,5 +1,5 @@
 
-<center><h1><span style="color:#0a0">MD5 HashFucker</span></h1></center>
+<center><h1><span style="color:green">MD5 HashFucker</span></h1></center>
 
 <h3>Using:</h3>
 
